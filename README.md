@@ -151,7 +151,6 @@ export function HomePage({ onNavigate }: HomePageProps) {
 # Output:
 <img width="1905" height="859" alt="Screenshot 2025-12-23 085854" src="https://github.com/user-attachments/assets/ee15144a-285d-489e-b99a-91f6d5edae68" />
 <img width="1900" height="847" alt="Screenshot 2025-12-23 085921" src="https://github.com/user-attachments/assets/782c7ed1-a679-4a3e-aca5-084cbde4efbb" />
-<img width="1894" height="823" alt="Screenshot 2025-12-23 090033" src="https://github.com/user-attachments/assets/12df2ecc-b93c-4da2-af9d-6c8474df29cc" />
 <img width="1896" height="847" alt="Screenshot 2025-12-23 090224" src="https://github.com/user-attachments/assets/e89dde59-b916-4b5e-99de-e7cac6d1c02e" />
 
 
